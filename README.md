@@ -7,14 +7,15 @@ Mixer com MOSFET: somador inversor → MOSFET em fonte comum operando na lei qua
 | Pasta | Conteúdo |
 | --- | --- |
 | `KicadProjetoFinal/` | Projeto do KiCad (esquemático e configuração do simulador ngspice) |
-| `CompontentesExtrasSpice/` | Modelos SPICE: IRF640N (Infineon), TL084 e LM324 (TI), OP07 (TI). Os arquivos `*_kicad.lib` são cópias adaptadas para o ngspice, com o invólucro quádruplo de 14 pinos |
+| `KicadProjetoFinal/modelos/` | Modelos SPICE usados na simulação: IRF640N (Infineon) e TL084 (TI, cópia adaptada para o ngspice com invólucro quádruplo de 14 pinos) |
+| `CompontentesExtrasSpice/` | Outros modelos e originais dos fabricantes: TL084 e LM324 (TI), OP07 (TI); `lm324_kicad.lib` é a cópia adaptada do LM324 |
 | `Testes/` | Dados exportados do simulador (CSV com `;` como separador e `,` como decimal) |
 | `docs/` | Enunciado do projeto |
 
 ## Abrir e simular
 
 1. Abrir `KicadProjetoFinal/KicadProjetoFinal.kicad_pro` no KiCad 8 ou superior.
-2. Os modelos são referenciados por caminho relativo (`${KIPRJMOD}/../CompontentesExtrasSpice/...`), então a pasta `CompontentesExtrasSpice` precisa ficar ao lado de `KicadProjetoFinal`.
+2. Os modelos usados ficam em `KicadProjetoFinal/modelos/` e são referenciados por caminho relativo à pasta do projeto (`modelos/...`), então o projeto funciona em qualquer computador.
 3. Simulador: análise transitória de 5 ms com passo de 0,5 µs. Com o TL084, o ponto de operação DC converge e a simulação já começa em regime permanente.
 
 ## Valores atuais (configuração do teste 9)
