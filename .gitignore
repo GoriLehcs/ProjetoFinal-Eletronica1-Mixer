@@ -8,3 +8,5 @@ _autosave-*
 
 # PSpice: resultados gerados
 *-PSpiceFiles/
+_restore_backup_*/
+*.tmp
