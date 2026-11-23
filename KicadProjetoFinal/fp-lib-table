@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Mixer")(type "KiCad")(uri "${KIPRJMOD}/Mixer.pretty")(options "")(descr "Footprints do projeto, com ilhas ampliadas para fresagem CNC"))
+)
