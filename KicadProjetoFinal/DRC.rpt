@@ -1,0 +1,282 @@
+** Drc report for KicadProjetoFinal.kicad_pcb **
+** Created on 2026-11-23T20:38:55 **
+** Report includes: Errors, Warnings **
+
+** Found 66 DRC violations **
+[silk_overlap]: Silkscreen clearance
+    Rule: configuração da serigrafia da placa; warning
+    @(133.3500 mm, 86.5300 mm): Campo de referência do R10
+    @(131.9600 mm, 86.4600 mm): Segmento de C1 em F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.5600 mm, 69.6200 mm): Segmento de R12 em F.Silkscreen
+    @(162.5600 mm, 68.5800 mm): Ilha PTH 2 [Net-(U1C-+)] de R12
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(169.9500 mm, 77.4700 mm): Segmento de R6 em F.Silkscreen
+    @(168.9100 mm, 77.4700 mm): Ilha PTH 1 [Net-(Q1-G)] de R6
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(178.0300 mm, 77.4700 mm): Segmento de R6 em F.Silkscreen
+    @(179.0700 mm, 77.4700 mm): Ilha PTH 2 [Net-(R6-Pad2)] de R6
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(171.4500 mm, 63.2700 mm): Segmento de R7 em F.Silkscreen
+    @(171.4500 mm, 62.2300 mm): Ilha PTH 1 [+VDC] de R7
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(171.4500 mm, 71.3500 mm): Segmento de R7 em F.Silkscreen
+    @(171.4500 mm, 72.3900 mm): Ilha PTH 2 [Net-(Q1-D)] de R7
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(157.2500 mm, 62.2300 mm): Segmento de R5 em F.Silkscreen
+    @(156.2100 mm, 62.2300 mm): Ilha PTH 1 [+VDC] de R5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(165.3300 mm, 62.2300 mm): Segmento de R5 em F.Silkscreen
+    @(166.3700 mm, 62.2300 mm): Ilha PTH 2 [Net-(Q1-G)] de R5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.3300 mm, 58.5210 mm): Segmento de Q1 em F.Silkscreen
+    @(168.9100 mm, 57.1500 mm): Ilha PTH 1 [Net-(Q1-G)] de Q1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.3300 mm, 58.5210 mm): Segmento de Q1 em F.Silkscreen
+    @(171.4500 mm, 57.1500 mm): Ilha PTH 2 [Net-(Q1-D)] de Q1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.3300 mm, 58.5210 mm): Segmento de Q1 em F.Silkscreen
+    @(173.9900 mm, 57.1500 mm): Ilha PTH 3 [-VDC] de Q1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(115.3400 mm, 82.5500 mm): Segmento de R2 em F.Silkscreen
+    @(114.3000 mm, 82.5500 mm): Ilha PTH 1 [Net-(R2-Pad1)] de R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(102.7500 mm, 84.9900 mm): Segmento de C8 em F.Silkscreen
+    @(102.8700 mm, 86.3600 mm): Ilha PTH 1 [+5V] de C8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(102.7500 mm, 87.4150 mm): Segmento de C8 em F.Silkscreen
+    @(102.8700 mm, 86.3600 mm): Ilha PTH 1 [+5V] de C8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(107.9900 mm, 84.9900 mm): Segmento de C8 em F.Silkscreen
+    @(107.8700 mm, 86.3600 mm): Ilha PTH 2 [GND] de C8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(107.9900 mm, 87.4150 mm): Segmento de C8 em F.Silkscreen
+    @(107.8700 mm, 86.3600 mm): Ilha PTH 2 [GND] de C8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(119.4200 mm, 73.5590 mm): Segmento de U2 em F.Silkscreen
+    @(116.8400 mm, 74.9300 mm): Ilha PTH 1 [+VDC] de U2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(119.4200 mm, 73.5590 mm): Segmento de U2 em F.Silkscreen
+    @(114.3000 mm, 74.9300 mm): Ilha PTH 2 [GND] de U2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(119.4200 mm, 73.5590 mm): Segmento de U2 em F.Silkscreen
+    @(111.7600 mm, 74.9300 mm): Ilha PTH 3 [+5V] de U2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(113.0300 mm, 88.6700 mm): Segmento de R1 em F.Silkscreen
+    @(113.0300 mm, 87.6300 mm): Ilha PTH 2 [Net-(U1A--)] de R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(113.0300 mm, 96.7500 mm): Segmento de R1 em F.Silkscreen
+    @(113.0300 mm, 97.7900 mm): Ilha PTH 1 [Net-(J1-Pin_1)] de R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1300 mm, 97.5600 mm): Segmento de R9 em F.Silkscreen
+    @(151.1300 mm, 96.5200 mm): Ilha PTH 2 [Net-(C7-Pad2)] de R9
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1300 mm, 105.6400 mm): Segmento de R9 em F.Silkscreen
+    @(151.1300 mm, 106.6800 mm): Ilha PTH 1 [Net-(C6-Pad1)] de R9
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.2000 mm, 83.7200 mm): Segmento de C1 em F.Silkscreen
+    @(137.0800 mm, 85.0900 mm): Ilha PTH 2 [GND] de C1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.2000 mm, 86.1450 mm): Segmento de C1 em F.Silkscreen
+    @(137.0800 mm, 85.0900 mm): Ilha PTH 2 [GND] de C1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.2800 mm, 65.9400 mm): Segmento de C4 em F.Silkscreen
+    @(152.4000 mm, 67.3100 mm): Ilha PTH 1 [+VDC] de C4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.2800 mm, 68.3650 mm): Segmento de C4 em F.Silkscreen
+    @(152.4000 mm, 67.3100 mm): Ilha PTH 1 [+VDC] de C4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(157.5200 mm, 68.3650 mm): Segmento de C4 em F.Silkscreen
+    @(157.4000 mm, 67.3100 mm): Ilha PTH 2 [GND] de C4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(157.5200 mm, 65.9400 mm): Segmento de C4 em F.Silkscreen
+    @(157.4000 mm, 67.3100 mm): Ilha PTH 2 [GND] de C4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.4300 mm, 68.8100 mm): Segmento de R4 em F.Silkscreen
+    @(138.4300 mm, 69.8500 mm): Ilha PTH 1 [soma] de R4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.6700 mm, 72.3300 mm): Segmento de U1 em F.Silkscreen
+    @(143.5100 mm, 88.9000 mm): Ilha PTH 7 [Net-(C7-Pad2)] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.6700 mm, 72.3300 mm): Segmento de U1 em F.Silkscreen
+    @(143.5100 mm, 73.6600 mm): Ilha PTH 1 [soma] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.6700 mm, 72.3300 mm): Segmento de U1 em F.Silkscreen
+    @(143.5100 mm, 76.2000 mm): Ilha PTH 2 [Net-(U1A--)] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.6700 mm, 72.3300 mm): Segmento de U1 em F.Silkscreen
+    @(143.5100 mm, 78.7400 mm): Ilha PTH 3 [GND] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.6700 mm, 72.3300 mm): Segmento de U1 em F.Silkscreen
+    @(143.5100 mm, 81.2800 mm): Ilha PTH 4 [+VDC] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.6700 mm, 72.3300 mm): Segmento de U1 em F.Silkscreen
+    @(143.5100 mm, 83.8200 mm): Ilha PTH 5 [GND] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.6700 mm, 72.3300 mm): Segmento de U1 em F.Silkscreen
+    @(143.5100 mm, 86.3600 mm): Ilha PTH 6 [Net-(U1B--)] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.9700 mm, 90.2300 mm): Segmento de U1 em F.Silkscreen
+    @(151.1300 mm, 83.8200 mm): Ilha PTH 10 [Net-(U1C-+)] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.9700 mm, 90.2300 mm): Segmento de U1 em F.Silkscreen
+    @(151.1300 mm, 81.2800 mm): Ilha PTH 11 [-VDC] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.9700 mm, 90.2300 mm): Segmento de U1 em F.Silkscreen
+    @(151.1300 mm, 78.7400 mm): Ilha PTH 12 [GND] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.9700 mm, 90.2300 mm): Segmento de U1 em F.Silkscreen
+    @(151.1300 mm, 88.9000 mm): Ilha PTH 8 [saida] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.9700 mm, 90.2300 mm): Segmento de U1 em F.Silkscreen
+    @(151.1300 mm, 86.3600 mm): Ilha PTH 9 [saida] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.9700 mm, 90.2300 mm): Segmento de U1 em F.Silkscreen
+    @(151.1300 mm, 76.2000 mm): Ilha PTH 13 [Net-(U1D--)] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.9700 mm, 90.2300 mm): Segmento de U1 em F.Silkscreen
+    @(151.1300 mm, 73.6600 mm): Ilha PTH 14 [Net-(U1D--)] de U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(130.8100 mm, 77.7000 mm): Segmento de R3 em F.Silkscreen
+    @(130.8100 mm, 78.7400 mm): Ilha PTH 1 [Net-(U1A--)] de R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(125.5150 mm, 77.5900 mm): Segmento de C5 em F.Silkscreen
+    @(124.4600 mm, 77.4700 mm): Ilha PTH 1 [+VDC] de C5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(123.0900 mm, 77.5900 mm): Segmento de C5 em F.Silkscreen
+    @(124.4600 mm, 77.4700 mm): Ilha PTH 1 [+VDC] de C5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(123.4200 mm, 82.5500 mm): Segmento de R2 em F.Silkscreen
+    @(124.4600 mm, 82.5500 mm): Ilha PTH 2 [Net-(U1A--)] de R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(131.9600 mm, 83.7200 mm): Segmento de C1 em F.Silkscreen
+    @(132.0800 mm, 85.0900 mm): Ilha PTH 1 [+VDC] de C1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(133.3500 mm, 86.5300 mm): Campo de referência do R10
+    @(132.0800 mm, 85.0900 mm): Ilha PTH 1 [+VDC] de C1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(131.9600 mm, 86.1450 mm): Segmento de C1 em F.Silkscreen
+    @(132.0800 mm, 85.0900 mm): Ilha PTH 1 [+VDC] de C1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(129.3100 mm, 88.9000 mm): Segmento de R10 em F.Silkscreen
+    @(128.2700 mm, 88.9000 mm): Ilha PTH 1 [Net-(C6-Pad1)] de R10
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.3900 mm, 88.9000 mm): Segmento de R10 em F.Silkscreen
+    @(138.4300 mm, 88.9000 mm): Ilha PTH 2 [Net-(U1B--)] de R10
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(123.0900 mm, 72.3500 mm): Segmento de C5 em F.Silkscreen
+    @(124.4600 mm, 72.4700 mm): Ilha PTH 2 [GND] de C5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(130.8100 mm, 69.6200 mm): Segmento de R3 em F.Silkscreen
+    @(130.8100 mm, 68.5800 mm): Ilha PTH 2 [soma] de R3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.4300 mm, 60.7300 mm): Segmento de R4 em F.Silkscreen
+    @(138.4300 mm, 59.6900 mm): Ilha PTH 2 [Net-(C3-Pad1)] de R4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(125.5150 mm, 72.3500 mm): Segmento de C5 em F.Silkscreen
+    @(124.4600 mm, 72.4700 mm): Ilha PTH 2 [GND] de C5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.5600 mm, 77.7000 mm): Segmento de R12 em F.Silkscreen
+    @(162.5600 mm, 78.7400 mm): Ilha PTH 1 [GND] de R12
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(172.7200 mm, 87.4000 mm): Segmento de R8 em F.Silkscreen
+    @(172.7200 mm, 86.3600 mm): Ilha PTH 1 [Net-(Q1-D)] de R8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(172.7200 mm, 95.4800 mm): Segmento de R8 em F.Silkscreen
+    @(172.7200 mm, 96.5200 mm): Ilha PTH 2 [Net-(C6-Pad1)] de R8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.2700 mm, 82.5100 mm): Segmento de C2 em F.Silkscreen
+    @(167.6400 mm, 82.6300 mm): Ilha PTH 2 [-VDC] de C2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(168.6950 mm, 82.5100 mm): Segmento de C2 em F.Silkscreen
+    @(167.6400 mm, 82.6300 mm): Ilha PTH 2 [-VDC] de C2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.2700 mm, 87.7500 mm): Segmento de C2 em F.Silkscreen
+    @(167.6400 mm, 87.6300 mm): Ilha PTH 1 [GND] de C2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(168.6950 mm, 87.7500 mm): Segmento de C2 em F.Silkscreen
+    @(167.6400 mm, 87.6300 mm): Ilha PTH 1 [GND] de C2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.2900 mm, 89.9400 mm): Segmento de R11 em F.Silkscreen
+    @(161.2900 mm, 88.9000 mm): Ilha PTH 2 [saida] de R11
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(161.2900 mm, 98.0200 mm): Segmento de R11 em F.Silkscreen
+    @(161.2900 mm, 99.0600 mm): Ilha PTH 1 [Net-(C10-Pad1)] de R11
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
